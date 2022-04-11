@@ -50,3 +50,6 @@ coverage.*
 
 # example of C implementation
 testdata/example
+
+# tools
+tools/bin/
